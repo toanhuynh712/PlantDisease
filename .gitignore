@@ -1,0 +1,13 @@
+# Data
+PlantVillage/
+processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+
+# Numpy
+*.npy
